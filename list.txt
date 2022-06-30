@@ -34,3 +34,15 @@ Data Locality
 Dirty Flag
 Object Pool
 Spatial Partition
+
+Head First
+__
+
+Decorator
+Factory
+Facade
+Template Method
+Iterator
+Composite
+Proxy
+Compound
