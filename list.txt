@@ -1,0 +1,36 @@
+Hmm...
+
+Starters:
+__
+Command
+Flyweight
+Observer
+Prototype
+Singleton
+State
+
+Sequencing
+__
+Double Buffer
+Game Loop
+Update Method
+
+Behavioral
+__
+Bytecode
+Subclass Sandbox
+Type Object
+
+Decoupling
+__
+Component
+Event Queue
+Service Locator
+
+Optimization
+__
+
+Data Locality
+Dirty Flag
+Object Pool
+Spatial Partition
